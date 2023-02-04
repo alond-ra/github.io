@@ -1,6 +1,7 @@
-title: Alondra\'s blog
+title: Alondra's blog
 logo: /assets/img/logo.png
-description: Blog to post Apprentice related stuff 
+description: 
+I am Alondra Galvan, a current apprentice at the Software Engineering Apprentice Program of Encora Inc. This is a blog to record my learning path during said program. This blog entries will appear from new to old. 
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
