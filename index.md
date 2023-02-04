@@ -2,9 +2,14 @@
 layout: default
 ---
 
-### Entry No. 1
-## February 13 2023
-## Technical log 1
+## February 13, 2023
+
+This entry is to talk about the assignments due February 13, which are:
+*   Solve given problems at Google Code Jam in team (with my batch mates).
+*   Solve given problems at Google Code Jam individually.
+*   Create this blog.
+*   Write weekly essay.
+*   Practice mindfulness.
 
 
 
