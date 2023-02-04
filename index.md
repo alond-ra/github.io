@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 ---
 
 ## February 13, 2023
