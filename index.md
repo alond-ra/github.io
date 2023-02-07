@@ -21,3 +21,7 @@ Since the assignments given during week 3 are thought to be done during two week
 ###
 
 ```
+
+
+About
+I am Alondra Galvan, a current apprentice at the Software Engineering Apprentice Program of Encora Inc. This is a blog to record my learning path during said program. This blog entries will appear from new to old.
