@@ -7,6 +7,7 @@ layout: default
 # Week Number 3
 
 February 6, 2023
+
 By Alondra
 
 This week was different from the first two weeks, where I attended onboarding meetings, read some articles and saw some videos. I consider that those weeks were enough to introduce me to Encora, but it seems like I will never stop learning in the Apprentice program. I am excited about it.
