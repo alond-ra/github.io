@@ -4,7 +4,7 @@ title:  "Week 3"
 date:   2023-02-06 15:00:56 -0600
 author: "Alondra Galvan"
 tags:
-categories: jekyll update
+categories: weekly essay
 ---
 
 This week was different from the first two weeks, where I attended onboarding meetings, read some articles and saw some videos. I consider that those weeks were enough to introduce me to Encora, but it seems like I will never stop learning in the Apprentice program. I am excited about it.
