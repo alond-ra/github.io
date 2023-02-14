@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week Essay 4"
+title:  "Weekly Essay #4"
 date:   2023-02-13 21:00:56 -0600
 author: "Alondra Galvan"
 tags:
