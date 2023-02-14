@@ -9,25 +9,19 @@ categories: technical-log
 
 ## Group Log
 
-**Apprentice 2023A**
-Abraham Ramirez
+**Apprentice 2023A Team**
 
-Aldo Santiago
-
-Alejandro Mendoza
-
-Alondra Galvan
-
-Gonzalo Martinez
-
-Gustavo Higuera
-
-Juan Sanchez
-
-Oscar Garzon
+* Abraham Ramirez
+* Aldo Santiago
+* Alejandro Mendoza
+* Alondra Galvan
+* Gonzalo Martinez
+* Gustavo Higuera
+* Juan Sanchez
+* Oscar Garzon
 
 
-##Foregone
+## Foregone
 
 **Overview:**
 
