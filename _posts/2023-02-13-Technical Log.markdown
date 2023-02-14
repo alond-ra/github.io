@@ -11,28 +11,40 @@ categories: technical-log
 
 **Apprentice 2023A**
 Abraham Ramirez
+
 Aldo Santiago
+
 Alejandro Mendoza
+
 Alondra Galvan
+
 Gonzalo Martinez
+
 Gustavo Higuera
+
 Juan Sanchez
+
 Oscar Garzon
 
 
 ##Foregone
 
 **Overview:**
+
 The problem requires us to find two numbers that, when added up, are equal to the amount of a lottery prize (a target number), but any of the generated numbers can’t contain the digit 4.
 
 The first input line contains the number of test cases (or the number of targets). The next line contains the target number, one for each case defined. The algorithm takes the string target number, then traverses the string and each digit is evaluated. During the evaluation, each digit of our numbers A and B is generated, simultaneously. The output of the algorithm shows the solution for each defined case. This process is repeated for each case.
 
 
 **Context:**
+
 Oh no! The keyboard of the oversized check printer is broken and the 4 key does not work. Someone just won the Code Jam lottery and this check has to be printed out. For some reason, the prize amount always includes at least one “4”. What can we do? Let’s print out two oversized checks that add up to the prize amount and do not contain the digit 4! We are tasked to find this pair of numbers to print out the checks.
 
+
 **Solution**
+
 **Iterative String Solution:**
+
 To solve this problem, we noticed that we have to focus only on the digit “4”, every other digit does not matter. We decided to add a 2 to each check when we find a 4, that way we can maintain the value of the prize amount. 
 
 We decided to read the input as a string and declare two empty strings for our output, a and b. Now, we can loop through the string and check if the digit is a 4, if it is, then we concatenate a “2” to each string, but if it’s not a 4, then we concatenate that digit to the a string and a “0” to the b string. We have to add a 0 to the b string, since we have to take into account the place value of each digit. 
@@ -49,8 +61,11 @@ To solve this problem using Go, it was necessary to convert the input of the pro
 
 On the other hand, to develop the solution in Python, the inputs are taken as a String from the beginning. Then, given the target number, N, even though it is a string, we can use list methods to count the numbers of 4’s it has (with N.count( ); to reduce the number of iterations that will be made) and to find its position (using N.find() inside a loop to find them all).
 
+
 **Alternative Solutions:**
+
 **Iterative Integer Solution:**
+
 We also consider reading the input as an integer. Following the described methodology, we consider looping through the number with extra help from the mod operator. So, we divide the number into 10 and then we can take the mod as the digit we want to evaluate.
 
 During the evaluation, we also have to verify if the digit equals four. In this case, we can assign a “2” value in string A and another “2” in string B. In case the digit is not equal to 4, we can generate a random number between 0 and 9, but also different from 4 and 6 in string A, and use the B = d - A equation for string B.
@@ -63,13 +78,14 @@ In this way, we can obtain a pair of numbers that equals the target, A and B, an
 ## Nesting Depth
 
 **Overview**
+
 This problem consists of inserting the minimum number of parentheses in a string of digits, so each digit with a value d is inside exactly d pairs of matching parentheses.
 
 The first input line contains the number of tests required (in this case, the number of strings to be evaluated). The next line contains the string of numbers, one for each case. In this algorithm, a 0 is added at the beginning and at the end of the string, then it is traversed and two digits are compared. Based on this evaluation, closing and opening parenthesis are added to the string. This process is repeated for each case.
 
 
-
 **Context**
+
 Given a string of digits S, insert a minimum number of opening and closing parentheses into it, such that the resulting string is balanced and each digit d is inside exactly d pairs of matching parentheses. 
 
 Given a string of digits S, find another string S', comprised of parentheses and digits, such that: 
@@ -82,29 +98,23 @@ Given a string of digits S, find another string S', comprised of parentheses and
 For example, the string “2110330” should produce the string “((2)11)0(((33)))0”. 
 
 
-
 **Solution**
 
 **Difference between digits solution:**
-If we observe some examples of correct values for S', and we go over every digit in S', we can notice that every time the value of a digit changes in S', there must be a certain number of parentheses between the digits that are different consecutively. Further observing, the number of parentheses between every two consecutive different digits, is the difference between the values of these digits. If a digit D is lower than its consecutive D', there must be D' - D opening parentheses between them. If D is greater than D', there must be D - D' closing parentheses.
 
+If we observe some examples of correct values for S', and we go over every digit in S', we can notice that every time the value of a digit changes in S', there must be a certain number of parentheses between the digits that are different consecutively. Further observing, the number of parentheses between every two consecutive different digits, is the difference between the values of these digits. If a digit D is lower than its consecutive D', there must be D' - D opening parentheses between them. If D is greater than D', there must be D - D' closing parentheses.
 
 There is just one issue with this approach, the first digit in S has no digit before to compare and insert the necessary parentheses, and the last digit has no consecutive one, so we can simply add a zero at the beginning and at the end of S, and when finishing inserting the necessary parentheses, we remove the 0s.
 
-
-This solution has a time complexity of O(N) since we only need to iterate S once and calculate a difference for each digit. 
-
+This solution has a time complexity of O(N) since we only need to iterate over S once and calculate a difference for each digit. 
 
 In order to solve the problem in Java, the input string was converted in a String Array to traverse the digits in an easy way with a for loop. We use the compareTo function to compare the digits in their string form. This function returns a value depending on the lexicographically difference between two characters, in this case, considering them as numbers:
-
 
 * x = 0, if they are equal.
 * x < 0, if the first number is less than the second one.
 * x > 0, if the first number is greater than the second one.
 
-
-So, this way we also obtain the exact number of parentheses we have to add to the string. In addition, the repeat function was used to create the parenthesis string without having to recursively add each one of them
-
+So, this way we also obtain the exact number of parentheses we have to add to the string. In addition, the repeat function was used to create the parenthesis string without having to recursively add each one of them.
 
 We also created two functions called addClosingParentheses and addOpeningParenthesis for a better structure within the code. The join function was used to convert the new array created during the algorithm to a string. 
 
@@ -112,6 +122,7 @@ Implementation in Python was pretty straightforward and only involved iteration 
 
 
 **Alternative Solutions:**
+
 The alternative solution was practically the same as the first solution, just implementing a counter of the open parenthesis instead of adding zeros at the beginning and the end of the string.
 With that in mind, we could compare the digits with the counter, and if the digits - openParenthesis > 0 we add the necessary parenthesis (the remaining) and increment the counter. Otherwise if digits - openParenthesis < 0, we close the |digits - openParenthesis| parentheses.
 The time complexity of this alternative solution was the same, O(N) because we only need to iterate S once.
@@ -122,16 +133,13 @@ To implement the alternative solution in Lisp we used tail recursion. Instead of
 
 
 
-
-
 ## You Can Go Your Own Way
 
 **Overview**
+
 This problem involves going through a maze, the starting position is at the left upper corner and the exit is at the right lower corner. Someone has already solved the maze, therefore we must find a path that does not repeat the steps she has made. 
 
 Given a number T indicating the total number of test cases, followed by 2 lines per test case, the first one indicating the size of the square maze and the second one indicating the path that our childhood rival took, we need to find another path that does not use the same steps as our rival. For example, if our rival went from A to B, we can cross A or B, but we can’t go from A to B in the same order.
-
-
 
 
 **Context**
@@ -141,6 +149,7 @@ We entered the world of the world's easiest maze, our starting position is at th
 **Solution**
 
 **Iterative String Solution**
+
 We noticed that the maze is always an N by N grid, knowing that, we know we can simply reverse Lydia’s path and we’re done. Since the created path will have N-1 E’s and N-1 S’s, it will always end up at the exit. To do this, first, we declare an empty string for the output, and then, read the input as a string and loop through the characters. If the character is an S, we concatenate an E to the output string and vice versa. When we’re done looping through the string, we can return our output string.
 
 This solution, in terms of Big-O Notation, is O(N), since we loop through the string only once. 
@@ -151,28 +160,32 @@ For the solution in Python, we simply declare an empty string and add (using the
 
 In Java we simply need to iterate the input string and then add ‘E’ or ‘S’ as chars to a new string, helping us with the position. Also we use the Scanner function of Java.
 
-To solve it using Go, it is declared an empty string to save the solution. Iterating from zero to N-1 and checking if in Lydia’s path there is a ‘S’ comparing the char at the position with 83 (the corresponding number to S in ASCII). If ther is a ‘S’, we add an ‘E’ to the solution string, otherwise, we ad an ‘S’.
+To solve it using Go, it is declared an empty string to save the solution. Iterating from zero to N-1 and checking if in Lydia’s path there is a ‘S’ comparing the char at the position with 83 (Go uses a base 8 / 16 number to characters, so they are called runes). If there is an ‘S’, we add an ‘E’ to the solution string, otherwise, we add an ‘S’, it's almost the same implementation as the others, but we need to be careful using the comparisons between runes and strings.
+
 
 **Alternative Solutions:**
 
 **Possibility sets**
+
 You can have a lot of possible solutions, but it needs to be equally long than 2N - 2, so you can build a set containing a lot of strings, discard the ones that are not possible, and select one of the remaining, but it is too slow and also uses a lot of memory. 
 
 **Graph Search Trees:**
+
 Another approach is to do a search tree, do some search in NlogN time, and find the possible ways to solve the maze. This approach is a bit faster than the previous, but the one that we implemented has a linear complexity.
-
-
 
 
 
 ## ESAb ATAd
 
 **Overview**
+
 This problem involves retrieving an array of bits stored inside a machine. To retrieve the information, we can query the machine and receive the bit we ask for, but this machine is subject to random quantum fluctuations and the information stored inside is changing every 10 queries. 
 
 This problem happens to be an interactive problem, so the judge will be the system created by Google. It is responsible for sending the bits back and judging if our response is right or wrong. The input for our program consists of a single line containing T and B, where T represents the amount of test cases and B represents the size of the array, it is constant throughout the test cases. Then we will process each test case, we can do up to 150 queries before printing the array out. The judge will respond with a “Y” or “N”, if we get a “Y”, we continue with the next test case, if there is any, but, if we get an “N”, we must end the program.
 
+
 **Context**
+
 Last year, a research consortium had some trouble with a distributed database system that sometimes lost some data. They decided to store the data in a machine, where the data is stored in an array made up of bits. To obtain the information from the machine, you must make a query and receive the array bit by bit. There’s one problem though, this machine is subject to random quantum fluctuations, specifically after every 1st, 11th, 21th… query is sent. These fluctuations happen before the system sends the bit and there are four types of fluctuations that have equal chance of happening: 
 
 * 25% of the time, the array is complemented: every 0 becomes a 1, and vice versa.
@@ -198,18 +211,20 @@ The implementation in Python involved the use of dictionaries to store informati
 
 In Java the code is very ‘simple’ and readable, but it took hours of analysis to get to that point. Because Java is very verbose, it is kinda hard to get to a point without getting confused by too many words. Also it was kinda hard to test because of the type of problem. But at the end, it still is the same solution that many languages use, without the need of doing anything more.
 
-Initially we tried to implement the first solution in Lisp but the language forced us to modify some things. Handling dictionaries in Lisp is complicated so we found out that it is not necessary to know if a pair is symmetric or asymmetric for each bit in the number. You only need to know one symmetric pair and one asymmetric pair. And if there are only asymmetric pairs you only need to know one pair, the case for only symmetric pairs is analogous. So instead of dictionaries we used two variables to store the values of the indexes of symmetric and asymmetric pairs, and an array to store the number bits we already knew. We also found out that if you only have asymmetric pairs then there are only two possible operations: complement or nothing. The other operations reduce to these two. If you only have symmetric pairs, it is analogous. With these two observations we were able to implement the solution in Lisp. The rest of our implementation is very similar to the original solution, after each 10 module 1 queries to Google we check the operation made to the number, update our array and keep asking for new bits until we know the value of the number.
+Initially we tried to implement the first solution in Lisp but the language forced us to modify some things. Handling dictionaries in Lisp is complicated so we found out that it is not necessary to know if a pair is symmetric or asymmetric for each bit in the number. You only need to know one symmetric pair and one asymmetric pair. And if there are only asymmetric pairs you only need to know one pair, the case for only symmetric pairs is analogous. So instead of dictionaries, we used two variables to store the values of the indexes of symmetric and asymmetric pairs, and an array to store the number bits we already knew. We also found out that if you only have asymmetric pairs then there are only two possible operations: complement or nothing. The other operations reduce to these two. If you only have symmetric pairs, it is analogous. With these two observations we were able to implement the solution in Lisp. The rest of our implementation is very similar to the original solution, after each 10 module 1 queries to Google we check the operation made to the array, update our array and keep asking for new bits until we know the value of each bit.
 
+Implementing this algorithm in Go is a little bit harder, has a lot of similarities with C, so using pointers, arrays and other data structures can be a little bit hard. We can try to imitate dictionaries in Go, but at the end is better to use an array and variables like indexes to keep track of the database status, and every interaction we query a pair of bits, we need to find a symmetric pair and an asymmetric pair, with both of them we can keep track of the changes that the database has at every 11,21,31… iteration. We can use this as a double shot because it works when we have only one bit inside an odd string and in every other case, so we need to keep an eye on a few special cases.
 
 
 **Alternative Solution:**
+
 **Possibility Set:**
+
 Another approach to the solution of the problem is creating a possibility set, every array describes a possible solution, and every time we check for a fluctuation we can eliminate the arrays that does not fit in the solution, analyzing this approach we can see that it uses a lot of memory and also is slower than ours, we can improve this using probability, but the computational effort it’s almost the same and it’s harder to implement.
 
 
-
-
 ***
+
 
 ## Individual Log
 
@@ -234,4 +249,12 @@ A prime number is assigned to each letter of the alphabet in a way that the prim
 
 Each number in the encrypted message is the product of the primes corresponding to two each consecutive letters in the original message; the first number in the encrypted message is the product of the prime assigned to the first letter in the original message with the prime assigned to the prime of the second letter of the original message. 
 
+
 **Solution**
+
+From the list of numbers, A, it is deduced the prime associated with the letters in the original message except for the first and the last letters on it. This is done by looking for the common divisor of two consecutive numbers in A and saving it in another list. If two consecutive numbers in A are equal, we cannot know immediately what number goes to each position, then we assign a 1 at that position. When we stop assigning 1's, it means that two consecutive numbers are not equal and now we can know the numbers that correspond instead of 1 (they are actually equal numbers) so we go back to those 1's and update them to their correct number.
+In the end, we assign the numbers for the first and last position by looking at the divisors of the first and last numbers of A and how they differ from their only adjacent number: that is the number that goes to the first/last position.
+Once we got the primes that, multiplying them as the problem states, we can discover the key to decrypt the message. This is done by creating a new list of the primes but deleting the repeated ones and then sorting them from minor to greater.  
+Then we create a dictionary assigning each prime to an alphabet letter: the first prime in the sorted list corresponds to 'A', the second one to the letter 'B' and so on.
+Finally, we declare an empty string that will contain the decrypted message. We will iterate the list that has the primes before deleting the repeated ones and sorting them. At each prime, we will add the corresponding char at the generated key to the solution string.
+
