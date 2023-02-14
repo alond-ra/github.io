@@ -8,11 +8,10 @@ categories: weekly-essay
 
 ---
 
-The assignaments for this week (and week number 3) were coding, the creation of this blog and mindfulness. For the mindfulness part, I am not accostume to it, but once that I focus, it is nice.
+The assignments for this week (and week number 3) were coding, the creation of this blog and mindfulness. For the mindfulness part, I am not accustomed to it, but once I focus, it is nice.
 
-For the part of coding, I implemented two of the solutions to the group problems in Python, a language that I am familiar with. For the individual problem, I also used Python. I chose the Cryptopangrams one. With that problem, I learned a bit of list comprehension; something that I have used before but I am not used to it. 
+For the part of coding, I implemented two of the solutions to the group problems in Python, a language that I am familiar with. For the individual problem, I also used Python. I chose the Cryptopangrams one. With that problem, I learned a bit of list comprehension; something that I have used before but I am not used to it.
 
-On the other hand, in order to improve this blog, I have been learning about Jekyll and recalling some format stuff from HTML, it is been a while since I laste used HTML!
+On the other hand, in order to improve this blog, I have been learning about Jekyll and recalling some format stuff from HTML, it is been a while since I last used HTML!
 
-I started to learn Java last week (week 3). I used Java a long ago, but I never did anything sophisticated with it. This week I was not capable of have a great advance on it, I will try to do it this next week. 
-
+I started to learn Java last week (week 3). I used Java a long ago, but I never did anything sophisticated with it. This week I was not capable of having a considerable advance on it, but I will try to do it this next week.
