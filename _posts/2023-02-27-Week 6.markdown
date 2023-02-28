@@ -6,7 +6,6 @@ author: "Alondra Galvan"
 categories: weekly-essay
 ---
 
-<p style="text-align: justify;">
   
 This week was a busy one, during the apprentice program, I had to keep working on the breakable toy. As a general view of what the breakable toy is, the objective is to develop a to-do list app. I spend some time reviewing some of the resources that my mentor recomended at the beggining of the week just as the videos "React - The complete guide" by Academind by Maximilian Schwarzmüller and "Full-Stack React with Spring Boot". I also kept giving a fast read to one of the books that I started the last week (“Java for beginners. A simple start to Java” by Scott Sanderson).
   
@@ -19,5 +18,5 @@ I know that having some sort of scheme or schedule does not guarantee that every
   
 By the end of the next week, I should be done with the part of the backend.
 
-</p>
+
 * * *
