@@ -1,13 +1,14 @@
 ---
 layout: post
-title:  "Week 6"
+title:  "Weekly essay #6"
 date:   2023-02-27 15:00:56 -0600
 author: "Alondra Galvan"
-tags:
 categories: weekly-essay
 ---
 
-For this week, during the apprentice, I had to keep working on the breakable toy. For the overview, it is to develop a to-do list app. I reviewed some of the resources that the mentor mentioned, just as the videos "React - The complete guide" by Academind by Maximilian Schwarzmüller and "Full-Stack React with Spring Boot".
+<p style="text-align: justify;">
+  
+This week was a busy one, during the apprentice program, I had to keep working on the breakable toy. As a general view of what the breakable toy is, the objective is to develop a to-do list app. I spend some time reviewing some of the resources that my mentor recomended at the beggining of the week just as the videos "React - The complete guide" by Academind by Maximilian Schwarzmüller and "Full-Stack React with Spring Boot". I also kept giving a fast read to one of the books that I started the last week (“Java for beginners. A simple start to Java” by Scott Sanderson).
 
 Besides studying the resources that I was told I will have to use, I wanted to have a scheme to follow to develop this project. I did not want to get overwhelmed by all the topics that I was studying and not knowing where I have to apply them. Having this kind of scheme also helps me to organize my time and be more productive.
 
@@ -15,5 +16,5 @@ I know that having some sort of scheme or schedule does not guarantee that every
 
 By the end of the next week, I should be done with the part of the backend.
 
-
+</p>
 * * *
