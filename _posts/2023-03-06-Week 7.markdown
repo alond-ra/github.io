@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Weekly essay #7"
-date:   2023-02-06 15:00:56 -0600
+date:   2023-03-06 15:00:56 -0600
 author: "Alondra Galvan"
 categories: weekly-essay
 ---
