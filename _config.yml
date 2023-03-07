@@ -1,6 +1,6 @@
 title: Alondra's blog
-logo: /assets/img/logo.gif
-description: This is a blog to record my learning path during said program.
+logo: /assets/img/logo.jpg
+description: This is a blog to record my learning path during the software engineer apprentice program at Encora.
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
