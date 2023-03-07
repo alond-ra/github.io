@@ -16,5 +16,6 @@ Since I wasn't too familiar with some of the tools required to develop the Break
 Last week I fully worked on some aspects of the backend of the Breakable Toy. This means that I have been learning and applying mostly java. Besides the resources that I used last week (“Java for beginners. A simple start to Java” by Scott Sanderson), I have been reading a bit of the documentation on the Oracle page but also I have been reading the Java tutorial by www.w3schools.com/ for its simplicity.
 
 
+I'll keep working on this same project for the next week to ask for some feedback on my advances.
 
 * * *
