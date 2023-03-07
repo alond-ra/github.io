@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Weekly essay #7"
+date:   2023-02-06 15:00:56 -0600
+author: "Alondra Galvan"
+categories: weekly-essay
+---
+
+  
+I am approaching the end of my second month in the Apprentice program. It has been 7 weeks of good advance in terms of my learning. I have always thought that one of the most effective learning methods (at least in software development topics) is to apply the knowledge to a practical project. In this case, the project is still the Breakable Toy. 
+
+
+Since I wasn't too familiar with some of the tools required to develop the Breakable Toy, I have been discerning which information is relevant to my project and what can be disregarded for now (in terms of the resources that I had been consulting and the mentioned project). This approach is for staying focused on the key aspects of the project.
+
+
+Last week I fully worked on some aspects of the backend of the Breakable Toy. This means that I have been learning and applying mostly java. Besides the resources that I used last week (“Java for beginners. A simple start to Java” by Scott Sanderson), I have been reading a bit of the documentation on the Oracle page but also I have been reading the Java tutorial by www.w3schools.com/ for its simplicity.
+
+
+
+* * *
