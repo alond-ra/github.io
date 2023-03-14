@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Weekly essay #8"
+date:   2023-03-13 15:00:56 -0600
+author: "Alondra Galvan"
+categories: weekly-essay
+---
+
+  
+It is incredible how time flies when there are things to do. My path during the apprentice program feels short, but it is been already eight weeks. It felt as if it was time to do some retrospection because it is almost time for ending the breakable toy. This wanted to work on specific details for the front-end part.
+
+As usual, before using a certain resource, I like to read about it. In this case, I am talking about using Redux or React Context. Due to the time limit, I only read an overview of both before choosing to focus on React Context.
+
+Besides that, I have not learned anything new. It is been a few months since the last time that I used Javascript. I had to re-learn some Javascript stuff, but it was easy since I already used some of it or it is similar to other tools that I am used to.
+
+I recognize that I have been having some struggles while developing this project. I am aiming to avoid the same mistakes. And I am especially working on not isolating myself. I have been working on it since before the Apprentice Program. It was one of the reasons why I was initially interested in this program and I recognize the negative consequences of doing it.
+
+* * *
