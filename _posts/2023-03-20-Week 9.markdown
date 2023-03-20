@@ -1,8 +1,22 @@
 ---
 layout: post
 title:  "Week 9"
-date:   2023-03-20 15:00:56 -0600
+date:   2023-03-20 12:00:00 -0600
 author: "Alondra Galvan"
 tags:
 categories: weekly-essay
 ---
+
+This was the last week to work on the breakable toy; the to-do app. It feels strange to make a retrospective of where I was when my batch and I received the assignment. I do not mean that it was a long time ago, in fact, it was just a bit more than a month ago. And, to where I was, I refer to my knowledge. In previous essays I mentioned that I have used some of the required resources for this project, but I have not done any similar project. In addition, I barely knew about some other resources such as React and Spring Boot. It was satisfying seeing it all come together. I have learned a lot and I liked the experience.
+
+However, at first I felt lost. I had to go to the basics and I spent more time than necessary on it. In order to finish the project on time, I had to rush on other topics and almost go from a fast read to the documentation straight to the application on the breakable toy. For me, good documentation implies that a fast reading of the documentation and a view of an example is enough to understand its behavior. Personally, that is something that I like about some libraries of Python. But this time, I can say the same for the React documentation.
+Then, what I learned this week? I did not learn many new things about java, javascript, spring boot, react... But I learned how amazing can turn the integration of these resources. I learned some HTLM stuff, I needed a good review of HTLM topics for the front-end part.
+
+On the other hand and for a more personal level, I'll take this specific week as a reminder of:
+communication matters
+asking for help makes things faster; another point of view is very valuable
+time management can make a difference.
+
+I am already excited about whatever comes next. But the next week I would like to re-read some topics that I had to rush this week to make sure that I understood them.
+
+***
