@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week 10"
+title:  "Weekly essay 10"
 date:   2023-03-27 12:00:00 -0600
 author: "Alondra Galvan"
 tags:
@@ -8,7 +8,7 @@ categories: weekly-essay
 ---
 
 
-Last week, I submitted my files for the breakable toy module (the to-do app project). My work could have been better. I already reflected on what went wrong and how I could avoid that. It wasn't about bothering myself, but rather a way to avoid the same mistakes and bad habits in the future, just as keeping in mind that communication is important and planning and following a plan is a good guide. I do not really have the intention of talking more about it again in this essay.
+Last week, I submitted my files for the breakable toy module (the to-do app project). My work could have been better. I already reflected on what went wrong and how I could avoid that. It wasn't about bothering myself, but rather a way to avoid the same mistakes and bad habits in the future, just as keeping in mind that communication is important and planning and following a plan is a good guide. I do not really have the intention of talking more about it again in this week essay.
 
 I kept working on the project after I submitted my files, to have inner peace while waiting for a new assignment. Luckily, the deadline was postponed. 
 
