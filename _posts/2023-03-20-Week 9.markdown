@@ -13,9 +13,10 @@ However, at first I felt lost. I had to go to the basics and I spent more time t
 Then, what I learned this week? I did not learn many new things about java, javascript, spring boot, react... But I learned how amazing can turn the integration of these resources. I learned some HTLM stuff, I needed a good review of HTLM topics for the front-end part.
 
 On the other hand and for a more personal level, I'll take this specific week as a reminder of:
-communication matters
-asking for help makes things faster; another point of view is very valuable
-time management can make a difference.
+
+* communication matters
+* asking for help makes things faster; another point of view is very valuable
+* time management can make a difference.
 
 I am already excited about whatever comes next. But the next week I would like to re-read some topics that I had to rush this week to make sure that I understood them.
 
