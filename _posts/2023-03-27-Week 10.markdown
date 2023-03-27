@@ -8,11 +8,11 @@ categories: weekly-essay
 ---
 
 
-Last week, I submitted my files for the breakable toy module. My work could have been better. I reflect on what went wrong and how I could avoid that. It wasn't about bothering myself, but rather a way to avoid the same mistakes and bad habits in the future.
+Last week, I submitted my files for the breakable toy module (the to-do app project). My work could have been better. I already reflected on what went wrong and how I could avoid that. It wasn't about bothering myself, but rather a way to avoid the same mistakes and bad habits in the future, just as keeping in mind that communication is important and planning and following a plan is a good guide. I do not really have the intention of talking more about it again in this essay.
 
-I kept working on the project after I submitted my files to have inner peace while waiting for a new assignment. Luckily, the deadline was postponed. 
+I kept working on the project after I submitted my files, to have inner peace while waiting for a new assignment. Luckily, the deadline was postponed. 
 
-What was lacking in my initial delivery was the front-end part of the project. So this week I focused on learning JavaScript and the HTML components needed for it. I didn't check a specific source besides the React documentation and looked for examples on the internet in general.
+What was lacking in my initial delivery was the front-end part of the project. So this week I spend time focusing on learning JavaScript and the HTML components required for the project. I didn't check for a specific source besides the React documentation and looked for examples on the internet in general and some YouTube tutorials.
 
 This next week my batch and I will receive a new assignment. I am looking forward to it!
 
