@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Week 9"
+date:   2023-03-27 12:00:00 -0600
+author: "Alondra Galvan"
+tags:
+categories: weekly-essay
+---
+
+
+Last week, I submitted my files for the breakable toy module. My work could have been better. I reflect on what went wrong and how I could avoid that. It wasn't about bothering myself, but rather a way to avoid the same mistakes and bad habits in the future.
+
+I kept working on the project after I submitted my files to have inner peace while waiting for a new assignment. Luckily, the deadline was postponed. 
+
+What was lacking in my initial delivery was the front-end part of the project. So this week I focused on learning JavaScript and the HTML components needed for it. I didn't check a specific source besides the React documentation and looked for examples on the internet in general.
+
+This next week my batch and I will receive a new assignment. I am looking forward to it!
+
+
+***
