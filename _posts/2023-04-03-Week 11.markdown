@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Weekly essay 11"
+date:   2023-04-03 12:00:00 -0600
+author: "Alondra Galvan"
+tags:
+categories: weekly-essay
+---
+
+Sometimes you look back to some point in the past and it seems unbelievable when you realize how long it is been since then. This occasion, for me, one of those times is the beginning of this year. It is been three months already, they went really fast. In the future, whenever I think about 2023, I will definitely think about Encora and the apprentice program. I came here looking for experience. And I am getting it. 
+
+
+Now, for this last week, I kept learning and implementing some CSS and javascript concepts. I have always liked when I can see something that I coded, so I enjoyed these topics.
+
+
+For the new module, I read some recommended material about open source. I learned about its community and saw something like the "formal" process for contributing to an Open Source Project. It is interesting; the philosophy of open-source software has always been interesting to me. 
+
+Since the open source module requires my contribution to be in Java, I have been trying a Java course to master my skills in this language and to feel more comfortable contributing to a Java project.
+
+This upcoming week, I will be trying to do my pull requests for the module. I have already seen some interesting projects, and I am excited.
+
+
+
+***
