@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Weekly essay #12"
+date:   2023-04-10 12:00:00 -0600
+author: "Alondra Galvan"
+tags:
+categories: weekly-essay
+---
+
+
+
+
+***
