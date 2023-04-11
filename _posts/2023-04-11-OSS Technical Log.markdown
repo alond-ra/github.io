@@ -25,9 +25,9 @@ First of all, I had to find an open-source project that needed help and that I c
 
 The Django documentation translation is open to receive contributions, it is the way this documentation has been translated since previous versions. 
 
-As a parenthesis, the ‘About’ section of this repository used to have outdated information. I opened an issue [https://github.com/django/django-docs-translations/issues/37] and suggested a correction. It got accepted and someone else made those changes. 
+As a parenthesis, the ‘About’ section of this repository used to have outdated information. I opened an [issue](https://github.com/django/django-docs-translations/issues/37) and suggested a correction. It got accepted and someone else made those changes. 
 
-Its [README.rst](https://github.com/django/django-docs-translations#readme) file clearly indicates that to contribute translations to this project, it is needed to use the Transifex platform. I introduced myself on the Django documentation translation forum [https://forum.djangoproject.com/c/internals/i18n/14] and got accepted on the Transifex team to translate said documentation to Spanish. 
+Its [README.rst](https://github.com/django/django-docs-translations#readme) file clearly indicates that to contribute translations to this project, it is needed to use the Transifex platform. I introduced myself on the Django documentation translation [forum](https://forum.djangoproject.com/c/internals/i18n/14) and got accepted on the Transifex team to translate said documentation to Spanish. 
 
 Transifex is pretty intuitive to use and I translated about 400 chains (most of them, were single words or even city names that do not need to be translated, but it has to be indicated). 
 
