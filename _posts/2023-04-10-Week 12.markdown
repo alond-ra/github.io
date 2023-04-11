@@ -7,7 +7,12 @@ tags:
 categories: weekly-essay
 ---
 
+This week I have been learning about the open-source community and, of course, I have kept working on my Java skills, to be more comfortable with the language. I already knew about the philosophy behind open-source software. However, I only knew about it because of hearing of the history behind it; getting to actually collaborate on a project is different. For the first part of the open-source module, I didn’t make a major contribution, but I helped to translate some parts of the documentation to Spanish and also suggested changes to the "About" section in a GitHub repo. 
 
+The feeling of collaborating with strangers in order to improve a project is nice. I know that fixing typos, translating or similar stuff can be seen as just little contributions (it is kind of like I see it), but they are important contributions that need to be made, and, in an OSS project, it can be me! I am happy to be able to help and, in the end, it can be a small contribution, but it is part of a bigger project.
+
+I hope that, in the future, I can make more significant contributions to open-source software projects.
+On the other hand, I have been learning and trying some methods to focus and be more productive. My current approach to organizing my work is usually effective, but I am looking for something different or a new way to be more productive. This is more for personal growth, but it can clearly help me to grow in my professional path. 
 
 
 ***
