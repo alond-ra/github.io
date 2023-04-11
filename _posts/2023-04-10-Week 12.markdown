@@ -11,7 +11,12 @@ This week I have been learning about the open-source community and, of course, I
 
 The feeling of collaborating with strangers in order to improve a project is nice. I know that fixing typos, translating or similar stuff can be seen as just little contributions (it is kind of like I see it), but they are important contributions that need to be made, and, in an OSS project, it can be me! I am happy to be able to help and, in the end, it can be a small contribution, but it is part of a bigger project.
 
-I hope that, in the future, I can make more significant contributions to open-source software projects.
+To be more specific, this week I worked on the translation of texts on Django documentation, which is a Python framework. Django has a GitHub profile and it has a project for its documentation's translation. This project has a branch for each stable Django version; currently, only stable documentation versions are translated.
+Even though this repository is on GitHub, the translation is made on another platform, Transifex.
+I also opened an issue suggesting some changes to the 'About' of that repository), it got accepted but someone else made the changes; I didn’t have the chance to actually do the PR by myself.
+
+I am still looking for another project to work on for the second part of the module; I will work on that this upcoming week.
+
 On the other hand, I have been learning and trying some methods to focus and be more productive. My current approach to organizing my work is usually effective, but I am looking for something different or a new way to be more productive. This is more for personal growth, but it can clearly help me to grow in my professional path. 
 
 
