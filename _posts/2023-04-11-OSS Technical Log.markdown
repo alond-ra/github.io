@@ -33,8 +33,9 @@ Transifex is pretty intuitive to use and I translated about 400 chains (most of 
 
 However, it is hard to document. I think that if you are not part of the team, you cannot see who made certain translations until it gets reviewed and added to the repository. As of 11/04/23, my contributions are still awaiting review.. To show my contributions, I’ll let these screenshots. The first one is from minutes after I started translating and the second one is from when I stopped.
 
-![start](/assets/img/1.png)
 
-![end](/assets/img/2.png)
+<img src="https://raw.githubusercontent.com/alond-ra/github.io/main/assets/img/1.png" alt="beginning">
+
+<img src="https://raw.githubusercontent.com/alond-ra/github.io/main/assets/img/2.png" alt="end">
 
 if the images are not being displayed, they can be seen at [first image](https://raw.githubusercontent.com/alond-ra/github.io/main/assets/img/1.png) and [second image](https://raw.githubusercontent.com/alond-ra/github.io/main/assets/img/2.png)
