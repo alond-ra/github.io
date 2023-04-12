@@ -37,4 +37,4 @@ However, it is hard to document. I think that if you are not part of the team, y
 
 ![end](/assets/img/2.png)
 
-if the images are not being displayed, they can be seen at [first image](/assets/img/1.png) and [second image](/assets/img/2.png)
+if the images are not being displayed, they can be seen at [first image](https://raw.githubusercontent.com/alond-ra/github.io/main/assets/img/1.png) and [second image](https://raw.githubusercontent.com/alond-ra/github.io/main/assets/img/2.png)
