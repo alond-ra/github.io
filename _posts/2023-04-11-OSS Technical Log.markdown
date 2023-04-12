@@ -32,3 +32,8 @@ Its [README.rst](https://github.com/django/django-docs-translations#readme) file
 Transifex is pretty intuitive to use and I translated about 400 chains (most of them, were single words or even city names that do not need to be translated, but it has to be indicated). 
 
 However, it is hard to document. I think that if you are not part of the team, you cannot see who made certain translations until it gets reviewed and added to the repository. As of 11/04/23, my contributions are still awaiting review.. To show my contributions, I’ll let these screenshots. The first one is from minutes after I started translating and the second one is from when I stopped.
+
+![start](/assets/img/1.png)
+
+![end](/assets/img/2.png)
+
