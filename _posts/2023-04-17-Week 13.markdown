@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Weekly essay #13"
+date:   2023-04-17 12:00:00 -0600
+author: "Alondra Galvan"
+tags:
+categories: weekly-essay
+---
+
+These days I have been trying to identify open-source projects on GitHub that I can contribute to. However, this is not as the previous week. I have been struggling to find a Java project since sometimes it feels as if I just started to be used to Java. I have to mention that Java has similarities with other languages that I am familiar with. Noticing them is one way to feel comfortable with Java. I just need to trust a bit more on myself and my skills. These days doing that it is been hard. I am unsure if it is a lack of motivation, along with other personal struggles. No matter what’s the situation, I always try to do my best to keep working and get the job done. I hope it goes well.
+
+On my Java learning path, for now, there is not too much material that I can keep reviewing; what is left is to work on some projects to get experience. I'll be working on that.
+
+On the other hand, I am amazed by the quantity of Python open-source projects on GitHub. I was wondering if I should work on another language other than Python but some Python projects seem tempting.
+
+Besides that, I have been reading about mindfulness and meditation. I remember that in the first weeks of this program, my batch and I were assigned to look up some articles and videos on this topic. I see why it is important to have this kind of information. Software engineering can be a stressful area. But, as in any other stressful situation, the important part is to be able to manage stress. So, I have been trying to learn what goes better with me, and what works for me. 
+
+***
