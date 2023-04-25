@@ -7,7 +7,12 @@ tags:
 categories: weekly-essay
 ---
 
+We have come to the end of the open-source software module this week. For the last weeks, I got introduced to the OSS, to its community and to contributing. I wanted some background besides the material I received for the module, so I looked up its history (roughly speaking); which I wasn’t too unfamiliar with.
 
+However, the most interesting part, for me, was the part about contributing. I cannot say that it was easy. I faced some obstacles such as not finding how to contribute, interesting repositories being inactive for a long time and not trusting my Java knowledge/skills. 
+I recognize that being a contributor to an OSS project could be very convenient for my portfolio. Being in the apprentice program motivated me to do it despite the difficulties. I would like to keep contributing, whether in the same repositories or new repositories, just for fun. 
+
+For this specific week, I would say that I learned more about GitHub and its tools to explore repositories and communicate with others.  I focused more on the repositories I was trying to contribute to; to understand them and look for solutions and/or complements to improve them. This week I had not too much time to learn new specific topics as in other weeks. But I am looking forward to the next module, where it seems like I will be able to learn a lot and formalize some knowledge on some topics that I know just superficially. 
 
 
 ***
