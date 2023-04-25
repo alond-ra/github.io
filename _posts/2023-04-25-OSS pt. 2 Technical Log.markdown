@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Technical Log - OSS Module1: Testing the open-source waters."
+date:   2023-04-25 12:00:00 -0600
+author: "Alondra Galvan"
+tags:
+categories: technical-log
+---
+
+**OVERVIEW**
+
+
+**CONTEXT**
+
+
+
+**SOLUTION**
+
+
