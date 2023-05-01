@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Weekly essay #14"
+title:  "Weekly essay #15"
 date:   2023-05-01 13:00:00 -0600
 author: "Alondra Galvan"
 tags:
@@ -8,3 +8,10 @@ categories: weekly-essay
 ---
 
 
+Last week I started working on the "module.computer-science-fundamentals". From my perspective, two of the most remarkable objectives of this activity are about reviewing computer science and improving our technical skills. 
+
+Right now I am still in the beginning of getting my Java Backend Developer track on the Hyperskill platform. I liked this platform since it was designed to learn theory and then practice it. Most of the time, learning platforms consist of videos, some lectures and then a test about all the topics. My learning style is more about reading than watching a video. This is specifically because I like to take notes. As I mentioned, I am still at the beginning, or at least that is how I feel. Last week was more about reviewing the Java basics. At this point, I should be able to say that I master those topics. But, as any programmer, I surprise myself googling some basic stuff sometimes when developing a project. So, I think that reviewing the basics is always worth it, but I have not been taking notes at a detailed point, since I am familiar with the concepts and topics. Besides, some programming topics do not go along with notes, or, to be honest, I rarely would look at those notes. Sometimes practicing is way more util.
+
+For my experience in the apprentice program, I would have liked to have this module earlier, before the to-do list project. I can still benefit from this module because I will be learning new stuff and reviewing topics is useful. But, as mentioned before, reviewing computer science and improving our technical skills, for me, seemed even more convenient at an earlier stage.
+
+I have expectations from this activity since it looks as I'll be using this knowledge very soon for developing a new project (another breakable toy) but also in the long term in my professional life; learning will be always a constant but the fundamentals have to be solid to actually continue learning.
