@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Weekly essay #16"
+date:   2023-05-08 13:00:00 -0600
+author: "Alondra Galvan"
+categories: weekly-essay
+---
+
+It is week number 16 already. This time I spent the week making advances to the Hyperskill activities to achieve the Java Backend Developer track. Last time I reviewed Java basics. But this week I entered into other Java topics that are more focused on project development. It is interesting. I am not completely unfamiliar with it but I feel have been learning a lot; whether familiar or unfamiliar topics. To be more specific about some of them, I learned/reviewed frameworks and how to use and install some of them, about APIs and some HTTP aspects. I am using this knowledge and tools to develop the Music Advisor project. It is relatively simple, but I can think of other similar projects that can be developed with these same tools. I am expecting to be done with this first project very soon and begin the next one this upcoming week. I already started some of the topics for the next project and it looks interesting.
+
+On the other hand, my batch, another batch and I received information for the next breakable toy. I have been looking at the existing material and code provided to be familiar with it. It seems challenging and like I will be learning a lot for it. This time it is a team project and we just started to do the planning for the next weeks. We were also provided with some agile resources to manage the project and we will be applying those methods. For the next month we will be developing the required features; it implies frontend and backend development. I am interested in frontend development and I see this as a great opportunity to learn more about it. 
+
+So... That’s it. I'll be doing similar stuff next week. 
