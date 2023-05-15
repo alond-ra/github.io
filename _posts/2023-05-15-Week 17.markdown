@@ -1,10 +1,14 @@
 ---
 layout: post
-title:  "Weekly essay #17"
-date:   2023-05-15 13:00:00 -0600
+title:  "Weekly essay #16"
+date:   2023-05-15 10:00:00 -0600
 author: "Alondra Galvan"
-tags:
 categories: weekly-essay
 ---
 
 
+
+This time it is been a heavy week. Not that it is the first one, but it is kind of remarkable. I have been learning Java through the Hyperskill platform. Some topics that I could mention would be HTTP, API and Gradle (theory and some interesting implementations with Java). Besides the material on that platform about Gradle, I did research on it since I had a related error when connecting the platform and the IDE used to develop the projects. In the end it seems like the error can be solved with something else, but I learned while trying to solve it.
+These topics seem to be useful for developing a variety of projects, I am excited about it. I think that, for sure, I'll be using them later.
+
+On the other hand, I am working on a team project; the "Building something from scratch" module. In general words, it is a Java application that was previously developed but now my team and I will improve the code by adding and complementing some functions. This week I got used to the existing code. With my team, we spent the week doing the planning for this project. When we got this assignment, we were also provided with some videos. For this essay, I want to mention the agile related videos. I see, now, clearly the need for all the planning. Specially the charts. Overall, the use of agile practices seems like the best way to track the advances of a project. My team and I created a project of GitHub projects to organize it. GitHub is such a useful tool and for sure this is not the last time I'll be using it. Next week we will be actually working on the stories for the project, it will be nice to make use of the board on GitHub projects and acknowledge the advances visually. 
