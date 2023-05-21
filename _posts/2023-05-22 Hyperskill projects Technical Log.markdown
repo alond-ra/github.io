@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Computer Science module - Technical Log"
-date:   2024-05-21 12:00:00 -0600
+date:   2024-05-21 00:00:00 -0600
 author: "Alondra Galvan"
 tags:
 categories: technical-log
