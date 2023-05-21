@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Weekly essay #18"
+date:   2023-05-22 10:00:00 -0600
+author: "Alondra Galvan"
+categories: weekly-essay
+---
+
+
+Week 18. 18. It was a week to keep working, learning and especially, learning from mistakes. 
+
+I have been learning Java, for a couple of months now. The current module of computer science that I have been working on has a focus on Java for backend development. I still have a lot left to learn. Since a while before I struggled with the platform we are using. But I solved this once and for all, I needed help from the IT department. It is done now, but it made me waste time. At the point that this week I could only attend some topics about encapsulation, intro to databases (and some related topics to this last one). I am not satisfied with my advance during this week. I'll keep working on it.
+
+But what kept me the most busy last week was the team project that I already mentioned last week. Last week was mostly for planning and getting used to the provided existing code. On Tuesday we received indications of some changes. It wasn't a major change, but we had to adjust the planning; adding some extra tasks. This made us put on hold some activities that my team and I wanted to start this week. The occasional ineffective communication and that a teammate left the Apprentice program (and consequently the project and team as well), some technical issues with my computer and a node version conflict were some obstacles this week. I didn't list all of the obstacles until writing this essay. Now I see why I ended up feeling exhausted. When I mentioned "learning from mistakes", I meant for the agile practices; the re-planning was not a small thing for me. There weren't major changes, but I wasn't prepared.
+
+For the last few weeks, I have been feeling lost and isolated at times; professionally and personally. I'll keep working on improving that aspect. Every time the situation gets clearer, I have to recognize it.
+On the other hand, next week I'll keep learning Java, I do not want to leave that to the side since the team project is Java (though there are other technologies involved). And of course, my focus will stay on that project and on taking care of what was planned for the week and recovering from the changes and obstacles I mentioned.
