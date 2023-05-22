@@ -15,7 +15,7 @@ As part of the Apprentice program, the Computer Science module, me and my batch 
 
 Here are the codes and technical logs for each one of the projects:
 
-*[Music Advisor](https://raw.githubusercontent.com/alond-ra/github.io/main/_posts/_subpost/2023-05-21-Technical-Log-Music-Advisor.markdow)
+*[Music Advisor](_posts/_subpost/2023-05-21-Technical-Log-Music-Advisor.markdow)
 
 
 *Cinema Room REST Service
