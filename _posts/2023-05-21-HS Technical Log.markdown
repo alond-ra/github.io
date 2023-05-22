@@ -15,8 +15,8 @@ As part of the Apprentice program, the Computer Science module, me and my batch 
 
 Here are the codes and **technical logs** for each one of the projects:
 
-- <a href="{{ "/_posts/_subpost/2023-05-21-Technical-Log-Music-Advisor.markdow"}}">Music Advisor
-
+- <a href="{{ "/_posts/_subpost/2023-05-21-Technical-Log-Music-Advisor.markdown" | relative_url }}" target="_blank"> Music Advisor</a>
+- 
 - [Cinema Room REST Service](_subpost/2023-05-21-Technical-Log-CRRS.markdow)
 
 - [Recipes](_subpost/2023-05-21-Technical-Log-Recipes.markdow)
