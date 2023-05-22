@@ -16,9 +16,9 @@ As part of the Apprentice program, the Computer Science module, me and my batch 
 Here are the codes and **technical logs** for each one of the projects:
 
 - <a href="{{ site.github.repository_url }}/blob/master/_posts/_subpost/2023-05-21-Technical-Log-Music-Advisor.markdown" target="_blank">Music Advisor</a>
-- 
-- [Cinema Room REST Service](_subpost/2023-05-21-Technical-Log-CRRS.markdow)
 
-- [Recipes](_subpost/2023-05-21-Technical-Log-Recipes.markdow)
+- [Cinema Room REST Service](_subpost/2023-05-21-Technical-Log-CRRS.markdow) At 05/21/23: Not done yet
+
+- [Recipes](_subpost/2023-05-21-Technical-Log-Recipes.markdow) At 05/21/23: Not done yet
 
 
