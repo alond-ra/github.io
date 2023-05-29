@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Weekly essay #19"
+date:   2023-05-29 01:00:00 -0600
+author: "Alondra Galvan"
+categories: weekly-essay
+---
+
+
+This time, I continue working with my team on the team project. It is nice to work with them, I have learned a lot seeing their contributions to the project. I already know that comparing myself to others can be unfair. However, looking at my teammates' contributions, made me realize (one more time) that I have a lot to learn. I could even say that I look up to them.
+Something cool about software engineering is the amount of good developers you can meet; not just for admiring, but for learning from them.
+
+Now, into what I have learned, I would mention some Java stuff, just as the implementation of APIs on projects (we have not actually done that in the project, but I have been researching about it since it is a possibility we consider for the future of the project). I have been paying special attention to the front-end part of the project (we are working node js... and maven for the back-end). It sure has lots of other applications. It is exciting.
+
+At a personal level, I have to admit that my level is not enough for some tasks and I have relied on my team. Rather than just being a load to them, I look for where I can contribute. After this project is done, I would like to point out (to the staff) that I am not ready to keep going forward on the Apprentice stages. I have been thinking about it for a while, but now it is something I cannot ignore. **I DO NOT WANT TO QUIT**, I just want to give some steps back, now that I can so I can have solid basics. Later, when I become a professional, I would not like to have to step back, so I have to work hard while I am still an apprentice.
+Just to recap, this week I have been doing some introspective but also learning more Java from practical applications. 
+
+Next week we will keep working on the project; we have some stories left and because of some inconveniences, I am not 100% sure we will make it to all the requirements. I'll try to, not just be optimistic but also realistic and work hard.
