@@ -1,8 +1,16 @@
 ---
 layout: post
 title:  "Weekly essay #20"
-date:   2023-06-02 05:32:00 -0600
+date:   2023-06-04 15:32:00 -0600
 author: "Alondra Galvan"
 categories: weekly-essay
 ---
 
+This week I continued to work on the same team project that I have been working on for the last few weeks.
+
+It was supposed to be the last week. But after the final demo, we got one more week for working on it since we didn’t achieve all of the goals. We kind of seemed that coming. But after failed attempts to communicate it to the stakeholders, it seemed like no sense to try again, especially considering the little time we had before the final demo. The previous week my teammates were being optimistic about the time and goals. But I wasn’t feeling the same. Even though our expectations, we all worked as hard as we could. And even though our hard work, we couldn’t achieve all of the goals. I felt defeated. I am definitely not ready to do this in the real world, this was just practice. But I am ready to keep learning and practicing to be ready soon.
+The stakeholders pointed out some of our mistakes. I have to say that I needed to listen to them from someone else. I am aware of some of our bad practices. But most of the time I have no idea how to solve them. Lack of communication was a big one of them. Personally, it has been a struggle for me for a while. I was getting better, I swear; in the last few years, I proved to myself that I am capable of communicating properly. But as I lost confidence, it gets harder. I'll pay attention to it, I know what's at stake. 
+For the technical part of what I have been learning this week, I have learned lots of things from my teammates' job. I researched AWS; we were supposed to deploy the app. I had no experience nor knowledge about AWS. So I learned a lot. I still have lots to learn about it. To be more specific, I learned about E2 and S3. But it seems like AWS has lots of useful services that I would like to research (and maybe use) later.
+
+
+Next week I'll continue to work with my team on that project. I'll try not to make the same mistakes and that we finally get to deploy the app on Monday.
