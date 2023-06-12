@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Weekly essay #20"
+date:   2023-06-12 08:32:00 -0600
+author: "Alondra Galvan"
+categories: weekly-essay
+---
