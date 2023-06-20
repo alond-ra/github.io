@@ -7,3 +7,6 @@ categories: weekly-essay
 ---
 
 
+This week was quite similar to the last one. I have been working on the BAH project with my teammates but also I kept reading about testing on Java and Python libraries. On the other hand, for the soft skills part, rather than reading, I talked with someone who is part of the Communication Enhancement Program and I also went to a couple of agile workshops.
+
+For the BAH project, we kept adding tests. Our goal was to do unit tests (in this case we are taking certain methods as units; unit testing consists of checking that each unit works as expected, and we test them individually) for all the code that our team contributed to the project. For this, we consulted the JUnit documentation and watched a bunch of examples on YouTube. Additionally, I read the book “Mastering Software Testing with JUnit 5” by Boni Garcia. I haven’t finished it yet, though I started reading it a week ago. Just to mention what I have learned from that book, I'd say that just general stuff, as some essential terms on testing (let's say, functional and non-functional requirements, error/fault/failure, manual and automated tests, some testing methods and types). I started this book
