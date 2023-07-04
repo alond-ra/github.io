@@ -17,12 +17,13 @@ On the other hand, for the Python questions, I didn’t have to create many Pyth
 I also checked some extra resources such as [LeetCode](https://leetcode.com/) and [AlgoExpert](https://www.algoexpert.io/). However, as the suggested topics consumed most of my time and that these resources have paid content, I couldn’t deepen into them. I'll keep them in mind for future interviews.
 For the list of questions, I focused on key concepts. I have broadly used most of the resources I considered key concepts. Just like OOP (object-oriented programming). I understand the concepts, I know how to apply them and I can provide examples. But sometimes I am unable to give a formal definition of them which could be a problem in the interview. Knowing this, that was the focus I gave to the answers and tried to understand definitions rather than implementations to work on my weaknesses.
 Just to complete this part, let me list some of the most remarkable key concepts I studied:
-Algorithms: different asymptotic notations, sorting algorithms, dynamic programming.
-Data Structures: Arrays, linked lists, stacks, queues, trees, graphs, hash tables, treaps, heaps.
-Software Engineer: software architectures, testing and debugging.
-Programming Paradigm: object-oriented programming, functional programming, imperative programming, procedural programming and declarative programming.
-Agile: Scrum, kanban.
-Testing: unit testing, end to end testing and integration testing.
+
+* Algorithms: different asymptotic notations, sorting algorithms, dynamic programming.
+* Data Structures: Arrays, linked lists, stacks, queues, trees, graphs, hash tables, treaps, heaps.
+* Software Engineer: software architectures, testing and debugging.
+* Programming Paradigm: object-oriented programming, functional programming, imperative programming, procedural programming and declarative programming.
+* Agile: Scrum, kanban.
+* Testing: unit testing, end to end testing and integration testing.
 
 Most of the topics and mentioned concepts are broad topics. Due time, I didn’t depen on them but tried to understand and be able to explain general ideas and concepts.
 
