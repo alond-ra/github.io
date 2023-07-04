@@ -15,8 +15,19 @@ For the algorithm and data structures part I reviewed some topics from the book 
 For the rest of the topics (software engineering, programming paradigm, design patterns, agile, testing), I relied on internet resources to look for information to answer the list of questions previously mentioned. 
 On the other hand, for the Python questions, I didn’t have to create many Python-related questions since there was a list of them and I already covered them for the Python mock interview I had on [week 22](https://alond-ra.github.io/github.io/weekly-essay/2023/06/19/Week-22.html).
 I also checked some extra resources such as [LeetCode](https://leetcode.com/) and [AlgoExpert](https://www.algoexpert.io/). However, as the suggested topics consumed most of my time and that these resources have paid content, I couldn’t deepen into them. I'll keep them in mind for future interviews.
-For the list of questions, I focused on key concepts. I have broadly used most of the resources I considered key concepts. Just like OOP (object-oriented programming). I understand the concepts, I know how to apply them and I can provide examples. But sometimes I am unable to give a formal definition of them which could be a problem in the interview. Knowing this, that was the focus I gave to the answers and tried to study the definitions rather than implementations to work on my weaknesses.
+For the list of questions, I focused on key concepts. I have broadly used most of the resources I considered key concepts. Just like OOP (object-oriented programming). I understand the concepts, I know how to apply them and I can provide examples. But sometimes I am unable to give a formal definition of them which could be a problem in the interview. Knowing this, that was the focus I gave to the answers and tried to understand definitions rather than implementations to work on my weaknesses.
+Just to complete this part, let me list some of the most remarkable key concepts I studied:
+Algorithms: different asymptotic notations, sorting algorithms, dynamic programming.
+Data Structures: Arrays, linked lists, stacks, queues, trees, graphs, hash tables, treaps, heaps.
+Software Engineer: software architectures, testing and debugging.
+Programming Paradigm: object-oriented programming, functional programming, imperative programming, procedural programming and declarative programming.
+Agile: Scrum, kanban.
+Testing: unit testing, end to end testing and integration testing.
+
+Most of the topics and mentioned concepts are broad topics. Due time, I didn’t depen on them but tried to understand and be able to explain general ideas and concepts.
 
 For the extra topics I have been studying during the week, let’s start with Selenium. As I mentioned in the past two essays (weeks 23 and 22), I had been working on a Selenium WebDriver with Python course at coursera. I finished it this week. What I learned and reviewed this week with this was about some resources of the SWD framework with Python for handling web elements such as sending strings to a textbox or selecting options on a collapsible menu. These kind of methods are useful for testing web applications (to simulate and automate user behavior and to be sure that the product work as expected providing a guarantee of the quality and allowing programmers to delete and prevent bugs).
 
-And what I have learned about Jenkins, I have only checked the basics, I could only say that Jenkins is an open-source automation server that helps with continuous integration and delivery (CI/CD) of software applications. It allows developers to automate various tasks involved in the software development lifecycle, such as building, testing, and deploying applications. I'll keep learning about it next week.
+And what I have learned about Jenkins, I have only checked the basics, I could only say that Jenkins is an open-source automation server that helps with continuous integration and delivery (CI/CD) of software applications. It allows the automation of various tasks like building, testing, and deploying applications. I'll keep learning about it next week.
+
+
