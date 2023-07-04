@@ -6,3 +6,6 @@ author: "Alondra Galvan"
 categories: weekly-essay
 ---
 
+This time I focused on getting ready for a mock interview but also studied other topics besides the ones that were relevant for the interview such as more Selenium WebDriver methods and Jenkins. 
+
+For the interview preparation I
