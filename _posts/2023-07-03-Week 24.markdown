@@ -9,6 +9,7 @@ categories: weekly-essay
 This time I focused on getting ready for a mock interview but also studied other topics besides the relevant ones for the interview, such as more Selenium WebDriver methods and Jenkins. 
 
 The mock interview was part of a new module for us (the apprentices). The objective of this interview, essentially, is to practice for real interviews so that the interviewee can manage anxiety in this kind of situation and be good at explaining concepts clearly and accurately. For the next round, I'll be the interviewer; the objective of this is to guide the interview, to be empathetic and provide feedback to the interviewee.
+
 The suggested topics for the interview were: Algorithms, data structures, software engineering, programming paradigm, design patterns, agile, testing and specifics of the programming language of your interviewee's preference (in my case, I was the interviewee and I choose Python).
 I created a list of questions I thought could be on the interview
 For the algorithm and data structures part I reviewed some topics from the book "Introduction to algorithms" by T. Comen, C. Leiserson, L. Rivest and C. Stein. What topics? With this book, I briefly reviewed some topics that I consider that I manage at a good level such as data structures such as arrays, linked lists, stacks, queues, trees, heaps and hash tables and some classic algorithms such as some sorting algorithms (merge sort, bubble sort, radix sort and insertion sort and another kind of algorithms such as DFS (Depth First Search) and BFS (Breadth First Search).
@@ -25,7 +26,7 @@ Just to complete this part, let me list some of the most remarkable key concepts
 * Agile: Scrum, kanban.
 * Testing: unit testing, end to end testing and integration testing.
 
-Most of the topics and mentioned concepts are broad topics. Due time, I didn’t depen on them but tried to understand and be able to explain general ideas and concepts.
+Most of the topics and mentioned concepts are broad topics. Due to time,  I did not delve into them but tried to understand and be able to explain general ideas and concepts.
 
 For the extra topics I have been studying during the week, let’s start with Selenium. As I mentioned in the past two essays (weeks 23 and 22), I had been working on a Selenium WebDriver with Python course at coursera. I finished it this week. What I learned and reviewed this week with this was about some resources of the SWD framework with Python for handling web elements such as sending strings to a textbox or selecting options on a collapsible menu. These kind of methods are useful for testing web applications (to simulate and automate user behavior and to be sure that the product work as expected providing a guarantee of the quality and allowing programmers to delete and prevent bugs).
 
