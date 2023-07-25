@@ -5,3 +5,7 @@ date:   2023-07-24 08:32:00 -0600
 author: "Alondra Galvan"
 categories: weekly-essay
 ---
+
+As an overview of the past week: I read chapters 5 to 8 of the book Cracking the Coding Interview, I read the Five Ways To Make Peace With Failure, I saw the Google Coding Interview With A Competitive Programmer video, I continued solving the HackerRank interview-preparation-kit problems, I saw the recording of another Agile workshop and I went to a "talk it over" session. 
+
+Writing that overview, it felts as if I didn't make as much as other weeks (or maybe not?). H
