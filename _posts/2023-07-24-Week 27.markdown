@@ -6,6 +6,25 @@ author: "Alondra Galvan"
 categories: weekly-essay
 ---
 
-As an overview of the past week: I read chapters 5 to 8 of the book Cracking the Coding Interview, I read the Five Ways To Make Peace With Failure, I saw the Google Coding Interview With A Competitive Programmer video, I continued solving the HackerRank interview-preparation-kit problems, I saw the recording of another Agile workshop and I went to a "talk it over" session. 
+As an overview of the past week: I read chapters 5 to 8 of the book Cracking the Coding Interview, I read the Five Ways To Make Peace With Failure article, I saw the Google Coding Interview With A Competitive Programmer video, I continued solving the HackerRank interview-preparation-kit problems, I saw the recording of another Agile workshop and I went to a "talk it over" session. 
 
-Writing that overview, it felts as if I didn't make as much as other weeks (or maybe not?). H
+Writing that overview, it felts as if I didn't make as much as other weeks (or maybe not?). However, reading the book and solving the problems took me a considerable amount of time... As expected. 
+
+As I mentioned last week, Cracking the Coding Interview is a book by Gayle Laakmann McDowell that gives advice on how to prepare for software engineering interviews. I read the first four chapters ( 1. Arrays and Strings, 2. Linked Lists, 3. Stacks and Queues, 4. Trees and graphs) last week. And this week I read chapters 5 to 8: 5. Bit manipulation, 6. Math and logic puzzles, 7. Object-oriented design and 8. Recursion and dynamic programming. Each of the names of the chapters is already descriptive of what it is. More or less, each chapter has its introduction (of what or what for is the topic of the chapter), introduces and explains concepts and states interview questions. Out of the eight chapters, bit manipulation was the only topic I wasn't really familiar with. 
+Quick recap: 5. Bit manipulation is a technique for manipulating individual bits in a computer word; 6. Puzzles are usually banned on interview questions because of brainteasers (and the ambiguity of their definition), however, it's better to prepare for this topic, just in case; 7. Object-Oriented design is a methodology for designing and implementing software, including design patterns and 8. Recursion and dynamic programming are two important techniques for solving problems recursively.
+
+The [Five Ways To Make Peace With Failure](https://www.forbes.com/sites/susantardanico/2012/09/27/five-ways-to-make-peace-with-failure/?sh=5c6123373640) article by Susan Tardanico in the Forbes site was a nice reading. Something that anyone who has experienced failure (I mean, everyone at some point) should get to know: practical tips on how to make peace with failure and move on from your mistakes.
+
+The [Google Coding Interview With A Competitive Programmer] video wasn't easy to watch for me. It was too long and sometimes I couldn't just focus. I had to watch it in parts. Google is known for having rigorous technical interviews when hiring software engineers to assess the candidate's problem-solving skills, coding abilities, algorithmic knowledge and efficiency in finding solutions to problems. On the other hand, competitive programmers often train to participate in coding competitions. This helps them improve their problem-solving skills. Both of these aspects are covered and shown in the video. A whiteboard interview! 
+
+[HackerRank](https://www.hackerrank.com/) is a technology company that focuses on competitive programming challenges for both consumers and businesses (says [Wikipedia](https://en.wikipedia.org/wiki/HackerRank)). Its platform has multiple coding challenges, competitions, and technical interview preparation resources for developers
+The HackerRank interview-preparation-kit is a 69 problem set covering a variety of topics: arrays, dictionaries and hashmaps, sorting, string manipulation, greedy algorithms, search, dynamic programming, stacks and queues, graphs, trees, linked lists and recursion. I'm almost done with it...
+
+The talk-it-over is a space for encorians to talk and listen (in English) and it is part of the communication enhancement program. It started the previous week, I think I forgot to mention it in the essay (or not? I'm not sure tbh). But it 30 minutes to talk with others, in my group we are 5 (including Kathi, the organizer). This time it was at the same time as the agile workshop, what a dilemma!
+
+But the agile workshop was recorded. I saw the recording. This workshop is titled "Avoid Drama with Agile Communication". In general terms, it was about communication and how to agilize it for better teamwork. Kinda.
+
+It felt like a dense week, in terms of material. But I'm satisfied with what I covered!
+So... That's it for this week.
+
+Considering my advance until now (that I'm writing this essay, I think that I'll finish the HackerRank interview-preparation-kit problems tomorrow morning. For the rest of the week, I'll be waiting for updates on an interview that I had on Friday 14th (I asked last week, but it seems like I'll wait a bit longer). I'm planning on reading about Cypress as well and I'll go to another session of the talk-it-over group and going back to the problems of the sections of Cracking the Coding Interview I read. Maybe I'll get another activity to do (like, a new module e-mail). Yes, that's what I'm planning for the next week.
