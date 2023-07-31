@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Weekly essay #28"
+date:   2023-07-31 08:32:00 -0600
+author: "Alondra Galvan"
+categories: weekly-essay
+---
+
+This time it was definitely a calm week. I caught the habit of listening to music during breakfast (instead of scrolling social media). There is a [particular song](https://www.youtube.com/watch?v=2vfmL4q2koo&list=RD2vfmL4q2koo&index=1&pp=8AUB) that puts me in a good mood these days. 
+
+A few weeks ago, I was studying Selenium WebDriver (a popular library for web app automation testing) with Python and I wanted to cover what I learned but with Java this time. I put that on hold since I prioritized the "Your personal brand" module (the one about reading chapters 1 to 8 of Cracking the Coding Interview, solving the HackerRank interview preparation kit and checking other material, right?). I had an Udemy course ([this one](https://www.udemy.com/course/selenium-java-framework-from-scratch/) to be specific) in sight for this, but I also want to use the resources I have access to as part of Encora. I already saw the first two sections of the course and it is looking pretty well. The first one is about setting up a Selenium project on Eclipse. I rather use Visual Studio Code or IntelliJ. I found [this resource](https://www.maxtaf.com/blog/how-install-selenium-visual-studio-code-windows-junit#:~:text=Setting%20up%20VS%20Code%20to,and%20click%20Create%20Java%20Project.) to set up a Selenium project on Visual Studio Code. I have no problems using Eclipse, but I do not want too many IDEs installed if there is no need. The second lesson was simply to introduce the [Selenium website](https://www.selenium.dev/) which I consider useful mainly because of the documentation.
+I also want to check out other resources I found on O'Reilly: the [Selenium Fundamentals)](https://learning.oreilly.com/videos/selenium-fundamentals/9781789804638/) video or maybe the [Hands-On Selenium WebDriver with Java](https://learning.oreilly.com/library/view/hands-on-selenium-webdriver/9781098109998/) book, but I'll think about it next week.
+
+Another testing tool I'm interested in is Cypress. It seems like this one is less used in comparison with Selenium. Well, I'm just guessing but there is way less material for learning Cypress. However, I found a few resources ([Cypress: Web Automation Testing course on Udemy](https://www.udemy.com/course/cypress-automation-testing/) and the [End-to-End Web Testing with Cypress book at O'Reilly](https://learning.oreilly.com/library/view/end-to-end-web-testing/9781839213854/)). I'll be reviewing the material...
+
+I heard about another platform for version control and software collaboration that uses Git (a version control system for change tracking in source code): GitLab. I say "another" because I am used to GitHub, it is more used. This blog is hosted on GitHub! However, I've been getting familiar with GitLab just in case I ever need it. I want to create a small project and manage it with GitLab.
+
+And I also spent time on some problems I had left for the ackerRank interview preparation kit, the hard ones.
+
+But yes, that’s it for this week.
