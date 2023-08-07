@@ -6,3 +6,4 @@ author: "Alondra Galvan"
 categories: weekly-essay
 ---
 
+body
