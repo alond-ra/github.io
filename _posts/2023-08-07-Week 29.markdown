@@ -6,7 +6,17 @@ author: "Alondra Galvan"
 categories: weekly-essay
 ---
 
-Well, my journey in the apprentice program has come to an end. This week I signed an offer to get a full-time position at Encora as QA automation. I am excited about it. But first let's take a moment to review my experience in the apprentice program.
+
+Well, my journey in the apprentice program has come to an end. This week I signed an offer to get a full-time position at Encora as QA automation. I am excited about it. But first, let's take a moment to review my experience in the apprentice program.
 
 Back on October 2022, I just found out about the apprentice program because an Encorian went to my school to talk about data science. He also covered some tips for building our CV and in the end he mentioned the Apprentice Program. I saw the desired profile for this, and doubted if I could fit in it. I wanted to try and decided that I wouldn't be the one judging if I fit the profile, I can be too hard on myself. 
 I passed all of the rounds to get into the program. On January 17th, 2023, I officially started as an Apprentice in Encora. 
+
+It's been 29 weeks. I came here to get to know how the industry is. At the apprentice program, I got to experience the tip of the iceberg (just guessing). However, it seems like Encora has its own style of doing things. Not that I have something to compare this experience with. But there is something that makes me feel lucky to have this first direct approach to the industry was here. What was the apprentice to me? Somewhere where I got to learn and refine skills (both hard-skills and soft-skills). I still have a long road to go, but the apprentice was a great start. Not everything went always as expected, sometimes I failed or I was dissatisfied with what I accomplished. But it is not about that; I can see growth and I'm stoked about further challenges.
+
+What did I learn? Well, I spent the last 29 weeks writing about it. From Java, JavaScript, JUnit, about DevOps to Agile, making my CV and handling interviews. Not that I have mastered all of those topics, but I am closer than six months ago. I value actual practice as a learning method. Yes, modules helped me to apply what I learned. But the experience as a whole helped me to be more confident about my skills and learning processes. 
+
+But yeah. That's it for this time.
+
+P.S. Special thanks to the staff, the apprentice program works because of the staff <3
+
