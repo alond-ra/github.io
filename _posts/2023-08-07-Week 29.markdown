@@ -6,4 +6,7 @@ author: "Alondra Galvan"
 categories: weekly-essay
 ---
 
-body
+Well, my journey in the apprentice program has come to an end. This week I signed an offer to get a full-time position at Encora as QA automation. I am excited about it. But first let's take a moment to review my experience in the apprentice program.
+
+Back on October 2022, I just found out about the apprentice program because an Encorian went to my school to talk about data science. He also covered some tips for building our CV and in the end he mentioned the Apprentice Program. I saw the desired profile for this, and doubted if I could fit in it. I wanted to try and decided that I wouldn't be the one judging if I fit the profile, I can be too hard on myself. 
+I passed all of the rounds to get into the program. On January 17th, 2023, I officially started as an Apprentice in Encora. 
